@@ -19,3 +19,6 @@ This tool is only for exploring the world and discovering new places.
 Anyone who ignores this and does things like PvP or farming will quickly be banned. 
 I assume no liability for misuse or exploitation of the tool. 
 (I'd recommend you to create a second account for this, just to be on the safe site)
+
+(Usage of Tool)
+https://youtu.be/zzY6WFtx1AY
