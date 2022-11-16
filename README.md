@@ -1,6 +1,7 @@
 # SWTOR
 Movement-Tool for SWTOR
 [Updated 11/16/2022]
+[v2.0]
 
 How to use:
 
@@ -28,4 +29,4 @@ I assume no liability for misuse or exploitation of the tool.
 (I'd recommend you to create a second account for this, just to be on the safe site)
 
 (Usage of Tool)
-https://youtu.be/zzY6WFtx1AY
+https://youtu.be/zzY6WFtx1AY (v1.1)
