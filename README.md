@@ -13,6 +13,13 @@ How to use:
 4. Have fun exploring!
 
 
+Features:
+
+• ReadCoords
+• Teleport
+• Fly/Glide
+• Legit Speed
+• Ultra Speed
 
 
 This tool is only for exploring the world and discovering new places. 
