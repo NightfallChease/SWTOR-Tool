@@ -9,7 +9,7 @@ How to use:
 
 2. Excract DLL from Archive
 
-3. Use a Injector of your choice (or the one inlcuded in the rar)
+3. Use a Injector of your choice (or the one inlcuded in the rar)                            
    (If you want to use the injector from the video you have to put the NFC-SWTOR.dll into C:\\ drive and don't rename the file or it wont work)
 
 4. Have fun exploring!
