@@ -7,12 +7,15 @@ How to use:
 
 1. Download SWTOR-Tool.rar
 
-2. Excract DLL from Archive
+2. Excract files
 
-3. Use a Injector of your choice (or the one inlcuded in the rar)                            
-   (If you want to use the injector from the video you have to put the NFC-SWTOR.dll into C:\\ drive and don't rename the file or it wont work)
+3. Run the game first
 
-4. Have fun exploring!
+4. Wait until ingame
+
+4. Run the Injector
+
+5. Have fun exploring!
 
 
 Features:
@@ -48,6 +51,8 @@ Changelog:
 
 • Addet autoreport (to stop credit farmers)
 
-• Fixed crash when changing planet
+• Fixed fly-detection
 
-• Fixed speed on fleet
+• Fixed lag when changing planet
+
+• Fixed speedfunc in space
