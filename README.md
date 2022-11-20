@@ -9,9 +9,9 @@ How to use:
 
 2. Excract files
 
-3. Run the game first
+3. Run the game
 
-4. Wait until ingame
+4. Select Character and wait until you spawn
 
 4. Run the Injector
 
