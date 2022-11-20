@@ -17,10 +17,15 @@ How to use:
 
 Features:
 
+
 • ReadCoords
+
 • Teleport
+
 • Fly/Glide
+
 • Legit Speed
+
 • Ultra Speed
 
 
@@ -35,8 +40,14 @@ https://youtu.be/zzY6WFtx1AY (v1.1)
 
 
 Changelog:
+
+
 • Addet crash protection
+
 • Addet glide
+
 • Addet autoreport (to stop credit farmers)
+
 • Fixed crash when changing planet
+
 • Fixed speed on fleet
