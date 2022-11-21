@@ -33,7 +33,7 @@ Features:
 
 
 This tool is only for exploring the world and discovering new places. 
-The tool automatically detects if a person is in PvP or farms and will immediately report it to the SWTOR Official team.
+The tool automatically detects if a person is in PvP or farms and will immediately report it to the Official SWTOR team.
 Anyone who ignores this and does things like PvP or farming will quickly be banned. 
 I assume no liability for misuse or exploitation of the tool. 
 (I'd recommend you to create a second account for this, just to be on the safe site)
