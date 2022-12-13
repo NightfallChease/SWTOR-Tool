@@ -1,7 +1,7 @@
 # SWTOR
 Movement-Tool for SWTOR
-[Updated 11/20/2022]
-[v2.5]
+[Updated 12/13/22]
+[v2.6]
 
 How to use:
 
@@ -44,6 +44,7 @@ https://youtu.be/zzY6WFtx1AY (v1.1)
 
 Changelog:
 
+• Fixed tool after new update
 
 • Addet crash protection
 
