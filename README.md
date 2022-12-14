@@ -3,6 +3,12 @@ Movement-Tool for SWTOR
 [Updated 12/13/22]
 [v2.6]
 
+
+[ - - NEWS - - ]
+I made the tool private for the time being, 
+anyone who wants access must send me a DM on Discord (NightfaII#2516)
+
+
 How to use:
 
 1. Download SWTOR-Tool.rar
