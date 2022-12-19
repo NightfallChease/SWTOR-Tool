@@ -37,7 +37,7 @@ Features:
 
 • Ultra Speed
 
-• Superjump
+• Superjump (New Function:Still Buggy)
 
 
 This tool is only for exploring the world and discovering new places.
