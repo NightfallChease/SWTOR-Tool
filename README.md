@@ -1,7 +1,7 @@
 # SWTOR
 Movement-Tool for SWTOR
-[Updated 12/13/22]
-[v2.6]
+[Updated 12/19/22]
+[v2.7]
 
 
 [ - - NEWS - - ]
@@ -37,6 +37,8 @@ Features:
 
 • Ultra Speed
 
+• Superjump
+
 
 This tool is only for exploring the world and discovering new places.
 I assume no liability for misuse or exploitation of the tool. 
@@ -54,10 +56,11 @@ Changelog:
 
 • Addet glide
 
-• Addet autoreport (to stop credit farmers)
+• Addet Superjump
 
 • Fixed fly-detection
 
 • Fixed lag when changing planet
 
 • Fixed speedfunc in space
+
