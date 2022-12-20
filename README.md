@@ -1,7 +1,7 @@
 # SWTOR
 Movement-Tool for SWTOR
-[Updated 12/19/22]
-[v2.7]
+[Updated 12/20/22]
+[v2.8]
 
 
 [ - - NEWS - - ]
@@ -50,7 +50,7 @@ https://youtu.be/zzY6WFtx1AY (v1.1)
 
 Changelog:
 
-• Fixed tool after new update
+• Fixed tool after new update (12/20/22)
 
 • Addet crash protection
 
