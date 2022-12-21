@@ -9,7 +9,7 @@ I made the tool private for the time being,
 anyone who wants access must send me a DM on Discord (NightfaII#2516)
 
 
-How to use:
+How to use (Injector):
 
 1. Download SWTOR-Tool.rar
 
@@ -20,6 +20,21 @@ How to use:
 4. Select Character and wait until you spawn
 
 4. Run the Injector
+
+5. Have fun exploring!
+
+
+How to use (DLL):
+
+1. Download dtlib32.dll
+
+2. Excract file
+
+3. Run the game
+
+4. Select Character and wait until you spawn
+
+4. Run your Injector and Inject the Dll
 
 5. Have fun exploring!
 
