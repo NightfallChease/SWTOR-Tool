@@ -1,5 +1,5 @@
 # SWTOR
-Movement-Tool for SWTOR
+Movement-Tool for SWTOR-Steam
 [Updated 12/20/22]
 [v2.8]
 
