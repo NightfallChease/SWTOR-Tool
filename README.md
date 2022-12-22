@@ -60,6 +60,9 @@ I assume no liability for misuse or exploitation of the tool.
 (I'd recommend you to create a second account for this, just to be on the safe site)
 
 (Usage of Tool)
+https://youtu.be/IDe16fsoYk0 (v2.8)
+
+(Usage of Tool)
 https://youtu.be/zzY6WFtx1AY (v1.1)
 
 
