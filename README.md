@@ -38,6 +38,11 @@ How to use (DLL):
 
 5. Have fun exploring!
 
+Requirements:
+
+• Microsoft Visual C++ Redistributable latest
+
+
 
 Features:
 
